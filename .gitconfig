@@ -1,2 +1,3 @@
 [alias]
     history = log --pretty=format:'%C(red) %h %C(yellow) %ad %C(green) %an %C(magenta) %s' --date=relative
+    newbranch = checkout -b
